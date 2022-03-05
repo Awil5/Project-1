@@ -116,8 +116,8 @@ SSH into the control node and follow the steps below:
 
 ### Answer the follwing questions
 
-The yml file in the Host file
-Docker and Elkstack
-http://
+- The yml file in the Host file
+- Docker and Elkstack
+- Kibana, I no loner have acess to my Azure Portal but it is Kibana
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
